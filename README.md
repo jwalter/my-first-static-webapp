@@ -1,5 +1,8 @@
 # Vue Basic
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jwalter/my-first-static-webapp.svg)](https://greenkeeper.io/)
+
+
 ## Project setup
 
 ```bash
